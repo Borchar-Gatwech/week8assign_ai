@@ -96,7 +96,7 @@ The workflow demonstrates:
 ## 👥 Contributors
 
 * **Brian Kipchumba**
-* **Borchar Gatwetch**
+* **Borchar Gatwech**
 * **Mary Karen Karumi**
 
 ---
